@@ -1,5 +1,32 @@
 [
   {
+    "Question": "A 55-year-old male presents with a 6-month history of progressive difficulty swallowing, first with solids and now with liquids. He also reports unintentional weight loss. Barium swallow study shows a 'bird's beak' appearance of the distal esophagus. What is the most likely diagnosis?",
+    "Option_A": "Esophageal cancer",
+    "Option_B": "Achalasia",
+    "Option_C": "Gastroesophageal reflux disease (GERD)",
+    "Option_D": "Esophageal stricture",
+    "Correct": "B",
+    "Explanation": "The classic triad of achalasia is dysphagia to both solids and liquids, regurgitation of undigested food, and weight loss. The 'bird's beak' finding on barium swallow is a pathognomonic sign of the condition, which is characterized by the failure of the lower esophageal sphincter to relax."
+  },
+  {
+    "Question": "A 28-year-old female presents with a 3-week history of a 'lump' in her neck. On physical examination, a mobile, non-tender, rubbery mass is palpated in the anterior cervical chain. She denies fever or recent illness. Which of the following is the most likely diagnosis?",
+    "Option_A": "Thyroid nodule",
+    "Option_B": "Cystic hygroma",
+    "Option_C": "Metastatic lymph node",
+    "Option_D": "Lymphoma",
+    "Correct": "D",
+    "Explanation": "In a young adult, a painless, rubbery, and mobile lymphadenopathy that persists for weeks is highly suspicious for lymphoma, such as Hodgkin's lymphoma. Thyroid nodules are typically found in the midline, while metastatic nodes are often hard and fixed. A cystic hygroma is a congenital lymphatic malformation, usually presenting in infancy."
+  },
+  {
+    "Question": "A 40-year-old patient with a history of alcohol use disorder presents with severe epigastric pain radiating to his back. The pain is partially relieved by leaning forward. Lab tests show elevated serum amylase and lipase. What is the most probable diagnosis?",
+    "Option_A": "Cholecystitis",
+    "Option_B": "Acute pancreatitis",
+    "Option_C": "Peptic ulcer disease",
+    "Option_D": "Myocardial infarction",
+    "Correct": "B",
+    "Explanation": "Acute pancreatitis is strongly associated with a history of alcohol abuse and is characterized by severe epigastric pain that radiates to the back and is often eased by sitting or leaning forward. The laboratory finding of significantly elevated serum amylase and lipase levels confirms the diagnosis."
+  },
+  {
     "Question": "Ilioinguinal nerve traverses which canal and emerges at superficial ring?",
     "Option_A": "Femoral canal",
     "Option_B": "Obturator canal",
