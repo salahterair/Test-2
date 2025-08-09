@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UMST Quiz — From JSON</title>
+<style>
+  :root{--ink:#e5e7eb;--muted:#9ca3af;--line:#1f2937;--ok:#22c55e;--bad:#ef4444}
+  body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;background:#0f172a;color:var(--ink);margin:0;padding:20px}
+  .wrap{max-width:900px;margin:auto;background:#0b1020;padding:20px;border-radius:14px;border:1px solid var(--line)}
+  header{text-align:center;margin-bottom:16px}
+  header img{width:90px;border-radius:8px;border:1px solid var(--line);background:#fff}
+  h1{margin:8px 0}
+  .meta{color:var(--muted);font-size:14px}
+  .opt{background:#111827;padding:12px;border-radius:10px;margin:8px 0;border:1px solid #23314a;cursor:pointer}
+  .opt:hover{background:#1f2937}
+  .ok{color:var(--ok)} .bad{color:var(--bad)}
+  .controls{display:flex;gap:10px;justify-content:flex-end;margin-top:12px}
+  button{padding:10px 14px;border-radius:10px;border:1px solid #334155;background:#1f2937;color:var(--ink);font-weight:700;cursor:pointer}
+  button.primary{background:linear-gradient(180deg,#2563eb,#1d4ed8);border-color:#3b82f6}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="assets/logo.jpg" alt="UMST Logo">
+    <h1>UMST — JSON Quiz</h1>
+    <div class="meta">Batch 30 & 28 – Abha Center</div>
+  </header>
+
+  <div id="quiz"></div>
+  <div class="controls">
+    <button id="nextBtn" class="primary" disabled>Next</button>
+  </div>
+</div>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const jsonFile = params.get("file") || "data/sample_question_bank.json";
+
+let questions = [];
+let current = 0;
+let score = 0;
+let answered = false;
+
+async function loadQuestions(){
+  try{
+    const res = await fetch(jsonFile);
+    questions = await res.json();
+  }catch(e){
+    document.getElementById('quiz').innerHTML = "<p class='meta'>Failed to load questions: " + e + "</p>";
+    return;
+  }
+  current = 0; score = 0; answered = false;
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const qbox = document.getElementById('quiz');
+  if(current >= questions.length){
+    qbox.innerHTML = `
+      <h2>Quiz Complete</h2>
+      <p>Your score: <b>${score}</b> / <b>${questions.length}</b> (${(score/questions.length*100).toFixed(1)}%)</p>
+      <p class="meta"><a href="index.html" style="color:#93c5fd;">Back to menu</a></p>`;
+    document.getElementById('nextBtn').disabled = true;
+    return;
+  }
+  const q = questions[current];
+  qbox.innerHTML = `
+    <h3>Q${current+1}: ${q.Question}</h3>
+    <div class="opt" onclick="checkAnswer('A')"><b>A.</b> ${q.Option_A}</div>
+    <div class="opt" onclick="checkAnswer('B')"><b>B.</b> ${q.Option_B}</div>
+    <div class="opt" onclick="checkAnswer('C')"><b>C.</b> ${q.Option_C}</div>
+    <div class="opt" onclick="checkAnswer('D')"><b>D.</b> ${q.Option_D}</div>
+    <div id="feedback" class="meta" style="margin-top:8px;"></div>
+    <div class="meta">Q ${current+1}/${questions.length} • Score: <b>${score}</b></div>
+  `;
+  answered = false;
+  document.getElementById('nextBtn').disabled = true;
+}
+
+function checkAnswer(ans){
+  if(answered) return;
+  const q = questions[current];
+  const fb = document.getElementById('feedback');
+  if(ans === q.Correct){
+    score++; fb.innerHTML = `<span class="ok">✅ Correct.</span> ${q.Explanation || ""}`;
+  }else{
+    fb.innerHTML = `<span class="bad">❌ Incorrect.</span> ${q.Explanation || ""} <em>(Correct: ${q.Correct})</em>`;
+  }
+  answered = true;
+  document.getElementById('nextBtn').disabled = false;
+}
+
+document.getElementById('nextBtn').addEventListener('click', ()=>{
+  if(!answered) return;
+  current++; renderQuestion();
+});
+
+loadQuestions();
+</script>
+</body>
+</html>

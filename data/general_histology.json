@@ -1,0 +1,272 @@
+[
+  {
+    "Question": "Respiratory epithelium is:",
+    "Option_A": "Stratified squamous",
+    "Option_B": "Simple columnar",
+    "Option_C": "Pseudostratified ciliated columnar with goblet cells",
+    "Option_D": "Transitional",
+    "Correct": "C",
+    "Explanation": "Typical of trachea/bronchi."
+  },
+  {
+    "Question": "Vagina lining:",
+    "Option_A": "Keratinized stratified squamous",
+    "Option_B": "Non-keratinized stratified squamous",
+    "Option_C": "Stratified cuboidal",
+    "Option_D": "Simple squamous",
+    "Correct": "B",
+    "Explanation": "Protective non-keratinized epithelium."
+  },
+  {
+    "Question": "Proximal tubule epithelium:",
+    "Option_A": "Simple cuboidal with brush border",
+    "Option_B": "Simple columnar ciliated",
+    "Option_C": "Simple squamous",
+    "Option_D": "Stratified cuboidal",
+    "Correct": "A",
+    "Explanation": "Brush border for reabsorption."
+  },
+  {
+    "Question": "Urothelium is:",
+    "Option_A": "Transitional epithelium",
+    "Option_B": "Simple squamous",
+    "Option_C": "Pseudostratified columnar",
+    "Option_D": "Stratified columnar",
+    "Correct": "A",
+    "Explanation": "Ureter, bladder."
+  },
+  {
+    "Question": "Tight junction function:",
+    "Option_A": "Anchor IFs",
+    "Option_B": "Seal paracellular space",
+    "Option_C": "Permit ion flow",
+    "Option_D": "Attach to basal lamina",
+    "Correct": "B",
+    "Explanation": "Zonula occludens barrier."
+  },
+  {
+    "Question": "Merocrine secretion:",
+    "Option_A": "Whole cell loss",
+    "Option_B": "Apical blebbing",
+    "Option_C": "Exocytosis without cytoplasm loss",
+    "Option_D": "Endocytosis",
+    "Correct": "C",
+    "Explanation": "Most exocrine glands."
+  },
+  {
+    "Question": "Epidermal order surface→deep:",
+    "Option_A": "Corneum→Granulosum→Spinosum→Basale",
+    "Option_B": "Basale→Spinosum→Granulosum→Corneum",
+    "Option_C": "Spinosum→Basale→Granulosum→Corneum",
+    "Option_D": "Corneum→Spinosum→Basale→Granulosum",
+    "Correct": "A",
+    "Explanation": "Lucidum in thick skin."
+  },
+  {
+    "Question": "Gallbladder epithelium:",
+    "Option_A": "Simple squamous",
+    "Option_B": "Simple cuboidal",
+    "Option_C": "Simple columnar with microvilli",
+    "Option_D": "Pseudostratified ciliated",
+    "Correct": "C",
+    "Explanation": "Absorptive tall cells."
+  },
+  {
+    "Question": "Reticular fibers:",
+    "Option_A": "Elastic",
+    "Option_B": "Type III collagen",
+    "Option_C": "Type I collagen",
+    "Option_D": "Actin",
+    "Correct": "B",
+    "Explanation": "Supportive fine meshwork."
+  },
+  {
+    "Question": "Tendon type:",
+    "Option_A": "Dense irregular CT",
+    "Option_B": "Loose areolar CT",
+    "Option_C": "Dense regular CT",
+    "Option_D": "Reticular tissue",
+    "Correct": "C",
+    "Explanation": "Parallel type I collagen."
+  },
+  {
+    "Question": "Dermis strength from:",
+    "Option_A": "Loose CT",
+    "Option_B": "Dense irregular CT",
+    "Option_C": "Dense regular CT",
+    "Option_D": "Elastic cartilage",
+    "Correct": "B",
+    "Explanation": "Collagen in many directions."
+  },
+  {
+    "Question": "Aortic recoil due to:",
+    "Option_A": "Type I collagen",
+    "Option_B": "Elastic lamellae",
+    "Option_C": "Reticular fibers",
+    "Option_D": "Type II collagen",
+    "Correct": "B",
+    "Explanation": "Elastic fibers."
+  },
+  {
+    "Question": "Granulation tissue collagen by:",
+    "Option_A": "Macrophages",
+    "Option_B": "Mast cells",
+    "Option_C": "Fibroblasts",
+    "Option_D": "Plasma cells",
+    "Correct": "C",
+    "Explanation": "Fibroblasts synthesize ECM."
+  },
+  {
+    "Question": "Plasma cell hallmark:",
+    "Option_A": "Eccentric nucleus, clock-face chromatin",
+    "Option_B": "Central nucleolus only",
+    "Option_C": "Binucleation",
+    "Option_D": "Many eosinophilic granules",
+    "Correct": "A",
+    "Explanation": "With perinuclear hof."
+  },
+  {
+    "Question": "Mast cells release:",
+    "Option_A": "Histamine and heparin",
+    "Option_B": "Insulin",
+    "Option_C": "Thyroxine",
+    "Option_D": "Hyaluronidase only",
+    "Correct": "A",
+    "Explanation": "Immediate hypersensitivity."
+  },
+  {
+    "Question": "Elastic cartilage site:",
+    "Option_A": "Costal cartilages",
+    "Option_B": "Epiglottis",
+    "Option_C": "Articular cartilage",
+    "Option_D": "IV discs",
+    "Correct": "B",
+    "Explanation": "Elastic cartilage in epiglottis/auricle."
+  },
+  {
+    "Question": "Fibrocartilage site:",
+    "Option_A": "Trachea",
+    "Option_B": "IV discs",
+    "Option_C": "Rib tips",
+    "Option_D": "Nasal septum",
+    "Correct": "B",
+    "Explanation": "Type I collagen, no perichondrium."
+  },
+  {
+    "Question": "Articular cartilage is:",
+    "Option_A": "Hyaline with perichondrium",
+    "Option_B": "Elastic",
+    "Option_C": "Hyaline without perichondrium",
+    "Option_D": "Fibrocartilage",
+    "Correct": "C",
+    "Explanation": "Avascular; nourished by synovial fluid."
+  },
+  {
+    "Question": "Bone resorption by:",
+    "Option_A": "Osteoblasts",
+    "Option_B": "Osteocytes",
+    "Option_C": "Osteoclasts",
+    "Option_D": "Chondroclasts",
+    "Correct": "C",
+    "Explanation": "Multinucleated osteoclasts."
+  },
+  {
+    "Question": "Osteon is:",
+    "Option_A": "Trabeculae only",
+    "Option_B": "Concentric lamellae around a central canal",
+    "Option_C": "Woven bone",
+    "Option_D": "Interdental canals",
+    "Correct": "B",
+    "Explanation": "Haversian system."
+  },
+  {
+    "Question": "Endochondral ossification model:",
+    "Option_A": "Dense CT",
+    "Option_B": "Hyaline cartilage",
+    "Option_C": "Fibrocartilage",
+    "Option_D": "Woven bone",
+    "Correct": "B",
+    "Explanation": "Long bones."
+  },
+  {
+    "Question": "Growth plate proliferative zone shows:",
+    "Option_A": "Resting chondrocytes",
+    "Option_B": "Active mitosis columns",
+    "Option_C": "Hypertrophic chondrocytes",
+    "Option_D": "Calcified cartilage",
+    "Correct": "B",
+    "Explanation": "Mitosis produces columns."
+  },
+  {
+    "Question": "Major collagen in bone:",
+    "Option_A": "Type I",
+    "Option_B": "Type II",
+    "Option_C": "Type III",
+    "Option_D": "Type IV",
+    "Correct": "A",
+    "Explanation": "Type I predominates."
+  },
+  {
+    "Question": "Eosinophil ID:",
+    "Option_A": "Bilobed nucleus, red granules",
+    "Option_B": "Large basophilic granules",
+    "Option_C": "Round dense nucleus",
+    "Option_D": "Kidney-shaped nucleus",
+    "Correct": "A",
+    "Explanation": "Allergy and parasites."
+  },
+  {
+    "Question": "First responders in acute infection:",
+    "Option_A": "Neutrophils",
+    "Option_B": "Monocytes",
+    "Option_C": "Lymphocytes",
+    "Option_D": "Basophils",
+    "Correct": "A",
+    "Explanation": "Rapid phagocytes."
+  },
+  {
+    "Question": "Platelets derive from:",
+    "Option_A": "Megakaryocytes",
+    "Option_B": "Myeloblasts",
+    "Option_C": "Promyelocytes",
+    "Option_D": "Reticulocytes",
+    "Correct": "A",
+    "Explanation": "Cytoplasmic fragments."
+  },
+  {
+    "Question": "Routine stain:",
+    "Option_A": "PAS",
+    "Option_B": "H&E",
+    "Option_C": "Trichrome",
+    "Option_D": "Silver",
+    "Correct": "B",
+    "Explanation": "Hematoxylin + eosin."
+  },
+  {
+    "Question": "Cardiac muscle coupling:",
+    "Option_A": "Desmosomes",
+    "Option_B": "Gap junctions",
+    "Option_C": "Tight junctions",
+    "Option_D": "Hemidesmosomes",
+    "Correct": "B",
+    "Explanation": "Gap junctions in intercalated discs."
+  },
+  {
+    "Question": "Smooth muscle hallmark:",
+    "Option_A": "Sarcomeres",
+    "Option_B": "Triads",
+    "Option_C": "Dense bodies",
+    "Option_D": "Peripheral multinuclei",
+    "Correct": "C",
+    "Explanation": "No sarcomeres; dense bodies."
+  },
+  {
+    "Question": "PNS myelin by:",
+    "Option_A": "Oligodendrocytes",
+    "Option_B": "Astrocytes",
+    "Option_C": "Schwann cells",
+    "Option_D": "Microglia",
+    "Correct": "C",
+    "Explanation": "Oligodendrocytes for CNS."
+  }
+]

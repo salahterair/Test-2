@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Pubic symphysis joint type:",
+    "Option_A": "Synovial plane",
+    "Option_B": "Secondary cartilaginous (fibrocartilaginous)",
+    "Option_C": "Primary cartilaginous",
+    "Option_D": "Syndesmosis",
+    "Correct": "B",
+    "Explanation": "Fibrocartilaginous disc."
+  },
+  {
+    "Question": "Ligaments resisting sacral nutation:",
+    "Option_A": "Sacrotuberous and sacrospinous",
+    "Option_B": "Iliolumbar",
+    "Option_C": "Inguinal",
+    "Option_D": "Transverse acetabular",
+    "Correct": "A",
+    "Explanation": "Stabilize sacroiliac region."
+  },
+  {
+    "Question": "Diagonal conjugate 12.5 cm → obstetric conjugate ≈",
+    "Option_A": "12.5 cm",
+    "Option_B": "~11.0 cm",
+    "Option_C": "~10.0 cm",
+    "Option_D": "~13.0 cm",
+    "Correct": "B",
+    "Explanation": "Subtract ~1.5 cm."
+  },
+  {
+    "Question": "Narrowest part of pelvic canal:",
+    "Option_A": "AP outlet",
+    "Option_B": "Interspinous diameter",
+    "Option_C": "Transverse inlet",
+    "Option_D": "Oblique diameter",
+    "Correct": "B",
+    "Explanation": "Between ischial spines."
+  },
+  {
+    "Question": "Muscle maintaining anorectal angle:",
+    "Option_A": "Puborectalis",
+    "Option_B": "Iliococcygeus",
+    "Option_C": "Pubococcygeus",
+    "Option_D": "Coccygeus",
+    "Correct": "A",
+    "Explanation": "Puborectalis sling."
+  },
+  {
+    "Question": "Levator ani innervation mainly:",
+    "Option_A": "Pudendal only",
+    "Option_B": "Nerve to levator ani (S3–4) ± pudendal",
+    "Option_C": "Pelvic splanchnics",
+    "Option_D": "Obturator",
+    "Correct": "B",
+    "Explanation": "Primary motor supply."
+  },
+  {
+    "Question": "Deep perineal pouch (male) contains:",
+    "Option_A": "Bulb of penis",
+    "Option_B": "External urethral sphincter",
+    "Option_C": "Superficial transverse perineal",
+    "Option_D": "Ischiocavernosus",
+    "Correct": "B",
+    "Explanation": "EUS located in deep pouch."
+  },
+  {
+    "Question": "Ruptured spongy urethra with torn Buck’s fascia → urine to:",
+    "Option_A": "Ischioanal fossa",
+    "Option_B": "Deep perineal pouch",
+    "Option_C": "Superficial perineal pouch & lower anterior abdominal wall",
+    "Option_D": "Retropubic space",
+    "Correct": "C",
+    "Explanation": "Tracks under Scarpa’s fascia."
+  },
+  {
+    "Question": "Female ureter passes under:",
+    "Option_A": "Ovarian artery",
+    "Option_B": "Uterine artery",
+    "Option_C": "Round ligament",
+    "Option_D": "Obturator artery",
+    "Correct": "B",
+    "Explanation": "'Water under the bridge'."
+  },
+  {
+    "Question": "Near bladder, ureter lies relative to ductus deferens:",
+    "Option_A": "Superficial to it",
+    "Option_B": "Deep to it",
+    "Option_C": "Medial to it",
+    "Option_D": "Lateral to it",
+    "Correct": "B",
+    "Explanation": "Ureter passes beneath ductus."
+  },
+  {
+    "Question": "Trigone derived from:",
+    "Option_A": "Endoderm only",
+    "Option_B": "Mesonephric ducts",
+    "Option_C": "Urachus",
+    "Option_D": "Cloaca",
+    "Correct": "B",
+    "Explanation": "Mesonephric origin of trigone."
+  },
+  {
+    "Question": "Pelvic fracture with high-riding prostate injures:",
+    "Option_A": "Penile urethra",
+    "Option_B": "Membranous urethra",
+    "Option_C": "Prostatic urethra",
+    "Option_D": "External meatus",
+    "Correct": "B",
+    "Explanation": "Posterior urethra vulnerable."
+  },
+  {
+    "Question": "Internal hemorrhoids painless because innervation:",
+    "Option_A": "Somatic",
+    "Option_B": "Visceral",
+    "Option_C": "Mixed",
+    "Option_D": "Sympathetic motor",
+    "Correct": "B",
+    "Explanation": "Above pectinate line."
+  },
+  {
+    "Question": "Anal canal below pectinate drains to:",
+    "Option_A": "Internal iliac nodes",
+    "Option_B": "Inferior mesenteric nodes",
+    "Option_C": "Superficial inguinal nodes",
+    "Option_D": "Para-aortic nodes",
+    "Correct": "C",
+    "Explanation": "Below pectinate → superficial inguinal."
+  },
+  {
+    "Question": "Primary uterine supports:",
+    "Option_A": "Round ligament only",
+    "Option_B": "Cardinal ligaments + pelvic floor",
+    "Option_C": "Broad ligament only",
+    "Option_D": "Suspensory ligament of ovary",
+    "Correct": "B",
+    "Explanation": "Cardinal/uterosacral + levator ani."
+  },
+  {
+    "Question": "Uterine artery is branch of:",
+    "Option_A": "Posterior division internal iliac",
+    "Option_B": "Anterior division internal iliac",
+    "Option_C": "External iliac",
+    "Option_D": "Common iliac",
+    "Correct": "B",
+    "Explanation": "Anterior division."
+  },
+  {
+    "Question": "Left ovarian vein drains to:",
+    "Option_A": "Left renal vein",
+    "Option_B": "IVC",
+    "Option_C": "Left common iliac",
+    "Option_D": "Internal iliac",
+    "Correct": "A",
+    "Explanation": "Right ovarian → IVC; left → renal vein."
+  },
+  {
+    "Question": "BPH most affects:",
+    "Option_A": "Peripheral zone",
+    "Option_B": "Transition zone",
+    "Option_C": "Central zone",
+    "Option_D": "Anterior stroma",
+    "Correct": "B",
+    "Explanation": "Around prostatic urethra."
+  },
+  {
+    "Question": "Prostate cancer most often in:",
+    "Option_A": "Peripheral zone",
+    "Option_B": "Transition zone",
+    "Option_C": "Central zone",
+    "Option_D": "Anterior stroma",
+    "Correct": "A",
+    "Explanation": "Posterior lobe/peripheral zone."
+  },
+  {
+    "Question": "Postpartum hemorrhage control by ligating:",
+    "Option_A": "Internal iliac trunk",
+    "Option_B": "Uterine artery",
+    "Option_C": "Ovarian artery",
+    "Option_D": "External iliac",
+    "Correct": "B",
+    "Explanation": "Reduces uterine bleeding."
+  },
+  {
+    "Question": "Corona mortis concerns variant of:",
+    "Option_A": "Obturator artery",
+    "Option_B": "Inferior epigastric",
+    "Option_C": "Deep circumflex iliac",
+    "Option_D": "Medial circumflex femoral",
+    "Correct": "A",
+    "Explanation": "Accessory obturator can be injured."
+  },
+  {
+    "Question": "Labor pain (uterine fundus) dermatomes:",
+    "Option_A": "T10–L1",
+    "Option_B": "S2–S4",
+    "Option_C": "L4–S1",
+    "Option_D": "C3–C5",
+    "Correct": "A",
+    "Explanation": "Visceral afferents with sympathetics."
+  },
+  {
+    "Question": "Pudendal block landmark:",
+    "Option_A": "Ischial spine",
+    "Option_B": "Pubic tubercle",
+    "Option_C": "ASIS",
+    "Option_D": "Ischial tuberosity",
+    "Correct": "A",
+    "Explanation": "Near sacrospinous ligament."
+  },
+  {
+    "Question": "Retropubic space lies between:",
+    "Option_A": "Pubic symphysis and bladder",
+    "Option_B": "Bladder and uterus",
+    "Option_C": "Rectum and sacrum",
+    "Option_D": "Uterus and rectum",
+    "Correct": "A",
+    "Explanation": "Prevesical space of Retzius."
+  },
+  {
+    "Question": "Bartholin gland opens:",
+    "Option_A": "Anterior to clitoris",
+    "Option_B": "At urethral meatus",
+    "Option_C": "Posterolateral to vaginal orifice",
+    "Option_D": "Deep perineal pouch",
+    "Correct": "C",
+    "Explanation": "Opens into vestibule posterolaterally."
+  }
+]

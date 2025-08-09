@@ -1,0 +1,227 @@
+[
+  {
+    "Question": "Which chamber forms most of the anterior surface of the heart?",
+    "Option_A": "Right atrium",
+    "Option_B": "Right ventricle",
+    "Option_C": "Left atrium",
+    "Option_D": "Left ventricle",
+    "Correct": "B",
+    "Explanation": "Right ventricle forms the sternocostal surface."
+  },
+  {
+    "Question": "Apex beat location in adults:",
+    "Option_A": "Right 5th ICS MCL",
+    "Option_B": "Left 5th ICS MCL",
+    "Option_C": "Left 4th ICS MCL",
+    "Option_D": "Right 4th ICS MCL",
+    "Correct": "B",
+    "Explanation": "Apex near left 5th intercostal space at midclavicular line."
+  },
+  {
+    "Question": "Most commonly occluded coronary artery:",
+    "Option_A": "RCA",
+    "Option_B": "LAD",
+    "Option_C": "LCX",
+    "Option_D": "Diagonal",
+    "Correct": "B",
+    "Explanation": "LAD is the 'widow-maker'."
+  },
+  {
+    "Question": "SA node blood supply most often from:",
+    "Option_A": "RCA",
+    "Option_B": "LAD",
+    "Option_C": "LCX",
+    "Option_D": "PDA",
+    "Correct": "A",
+    "Explanation": "~60% supplied by RCA."
+  },
+  {
+    "Question": "AV node supplied most often by:",
+    "Option_A": "LAD",
+    "Option_B": "LCX",
+    "Option_C": "PDA from dominant artery",
+    "Option_D": "Diagonal",
+    "Correct": "C",
+    "Explanation": "AV nodal branch from PDA (RCA in right-dominant)."
+  },
+  {
+    "Question": "Carina level:",
+    "Option_A": "T2/T3",
+    "Option_B": "T4/T5",
+    "Option_C": "T6/T7",
+    "Option_D": "T8/T9",
+    "Correct": "B",
+    "Explanation": "At sternal angle plane."
+  },
+  {
+    "Question": "Right main bronchus is:",
+    "Option_A": "Longer and more horizontal",
+    "Option_B": "Wider, shorter, more vertical",
+    "Option_C": "Narrower and oblique",
+    "Option_D": "Posterior to left main",
+    "Correct": "B",
+    "Explanation": "Aspiration risk is higher on right."
+  },
+  {
+    "Question": "Lingula belongs to:",
+    "Option_A": "Right upper lobe",
+    "Option_B": "Right middle lobe",
+    "Option_C": "Left upper lobe",
+    "Option_D": "Left lower lobe",
+    "Correct": "C",
+    "Explanation": "Lingula is part of LUL."
+  },
+  {
+    "Question": "Oblique fissure of right lung separates:",
+    "Option_A": "Upper and middle",
+    "Option_B": "Middle and lower",
+    "Option_C": "Upper and lower",
+    "Option_D": "All three",
+    "Correct": "C",
+    "Explanation": "Horizontal fissure separates upper and middle."
+  },
+  {
+    "Question": "Thoracic duct drains at junction of:",
+    "Option_A": "Right IJ + right subclavian",
+    "Option_B": "Left IJ + left subclavian",
+    "Option_C": "SVC + azygos",
+    "Option_D": "Left brachiocephalic + SVC",
+    "Correct": "B",
+    "Explanation": "Left venous angle."
+  },
+  {
+    "Question": "Left recurrent laryngeal nerve loops around:",
+    "Option_A": "Right subclavian",
+    "Option_B": "Aortic arch",
+    "Option_C": "Left subclavian",
+    "Option_D": "Pulmonary trunk",
+    "Correct": "B",
+    "Explanation": "Loops under aortic arch near ligamentum arteriosum."
+  },
+  {
+    "Question": "Esophagus passes diaphragm at:",
+    "Option_A": "T8",
+    "Option_B": "T10",
+    "Option_C": "T12",
+    "Option_D": "L1",
+    "Correct": "B",
+    "Explanation": "I 8 10 Eggs At 12."
+  },
+  {
+    "Question": "Bronchopulmonary segments are:",
+    "Option_A": "Venous units only",
+    "Option_B": "Functional units with segmental bronchi + arteries",
+    "Option_C": "Lobules",
+    "Option_D": "Alveoli clusters only",
+    "Correct": "B",
+    "Explanation": "Independently supplied by segmental branches."
+  },
+  {
+    "Question": "Middle mediastinum contains:",
+    "Option_A": "Thymus",
+    "Option_B": "Esophagus",
+    "Option_C": "Heart and pericardium",
+    "Option_D": "Descending aorta",
+    "Correct": "C",
+    "Explanation": "Heart sits in middle mediastinum."
+  },
+  {
+    "Question": "Azygos vein drains into:",
+    "Option_A": "IVC",
+    "Option_B": "SVC",
+    "Option_C": "Left brachiocephalic",
+    "Option_D": "Right atrium",
+    "Correct": "B",
+    "Explanation": "Arches over right bronchus to SVC."
+  },
+  {
+    "Question": "Pericardial tamponade triad:",
+    "Option_A": "Hypotension, JVD, muffled heart sounds",
+    "Option_B": "Fever, rub, pleuritic pain",
+    "Option_C": "Bounding pulses, HTN, bradycardia",
+    "Option_D": "Cyanosis, edema, wheeze",
+    "Correct": "A",
+    "Explanation": "Beck’s triad (classical)."
+  },
+  {
+    "Question": "Right-dominant circulation means PDA from:",
+    "Option_A": "RCA",
+    "Option_B": "LAD",
+    "Option_C": "LCX",
+    "Option_D": "Diagonal",
+    "Correct": "A",
+    "Explanation": "~70% right-dominant."
+  },
+  {
+    "Question": "Pulmonary ligament is:",
+    "Option_A": "Fold of pleura below root",
+    "Option_B": "Dense fibrous band",
+    "Option_C": "Bronchial cartilage",
+    "Option_D": "Mediastinal fascia",
+    "Correct": "A",
+    "Explanation": "Allows movement and venous dilation."
+  },
+  {
+    "Question": "Chylothorax due to injury of:",
+    "Option_A": "Azygos vein",
+    "Option_B": "Thoracic duct",
+    "Option_C": "Internal thoracic artery",
+    "Option_D": "Phrenic nerve",
+    "Correct": "B",
+    "Explanation": "Chyle leak from thoracic duct."
+  },
+  {
+    "Question": "Bronchial arteries arise from:",
+    "Option_A": "Thoracic aorta (variable)",
+    "Option_B": "Pulmonary artery",
+    "Option_C": "Subclavian",
+    "Option_D": "Internal thoracic",
+    "Correct": "A",
+    "Explanation": "Commonly from thoracic aorta."
+  },
+  {
+    "Question": "Transverse pericardial sinus lies between:",
+    "Option_A": "Aorta/pulmonary trunk anteriorly and SVC posteriorly",
+    "Option_B": "Left atrium and esophagus",
+    "Option_C": "SVC and IVC",
+    "Option_D": "Aorta and LA",
+    "Correct": "A",
+    "Explanation": "Surgical clamp can pass through."
+  },
+  {
+    "Question": "Phrenic nerve course relative to lung root:",
+    "Option_A": "Posterior",
+    "Option_B": "Anterior",
+    "Option_C": "Superior",
+    "Option_D": "Within hilum",
+    "Correct": "B",
+    "Explanation": "Phrenic anterior; vagus posterior."
+  },
+  {
+    "Question": "Most breast lymph drains first to:",
+    "Option_A": "Parasternal nodes",
+    "Option_B": "Posterior intercostal nodes",
+    "Option_C": "Anterior (pectoral) axillary nodes",
+    "Option_D": "Apical axillary nodes",
+    "Correct": "C",
+    "Explanation": "Pectoral nodes receive most drainage."
+  },
+  {
+    "Question": "SVC obstruction often causes dilation of:",
+    "Option_A": "Azygos system",
+    "Option_B": "Portal vein",
+    "Option_C": "IVC",
+    "Option_D": "Subclavian artery",
+    "Correct": "A",
+    "Explanation": "Collateral via azygos/hemiazygos systems."
+  },
+  {
+    "Question": "Aortic hiatus transmits:",
+    "Option_A": "Aorta + thoracic duct + azygos vein",
+    "Option_B": "Aorta + esophagus",
+    "Option_C": "Aorta + IVC",
+    "Option_D": "Esophagus + vagus",
+    "Correct": "A",
+    "Explanation": "Aorta and thoracic duct (azygos sometimes posterior)."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Question": "Which landmark identifies the 2nd rib?",
+    "Option_A": "Jugular notch",
+    "Option_B": "Sternal angle (of Louis)",
+    "Option_C": "Xiphoid process",
+    "Option_D": "Costal margin",
+    "Correct": "B",
+    "Explanation": "Sternal angle marks 2nd costal cartilage (T4/5)."
+  },
+  {
+    "Question": "Safest chest drain site (adult)?",
+    "Option_A": "2nd ICS MCL",
+    "Option_B": "5th ICS anterior to mid-axillary (triangle of safety)",
+    "Option_C": "8th ICS PAL",
+    "Option_D": "3rd ICS parasternal",
+    "Correct": "B",
+    "Explanation": "Triangle of safety avoids VAN bundle."
+  },
+  {
+    "Question": "Intercostal nerve block: track needle:",
+    "Option_A": "Inferior to upper rib",
+    "Option_B": "Superior border of lower rib",
+    "Option_C": "Middle of space",
+    "Option_D": "Through cartilage",
+    "Correct": "B",
+    "Explanation": "Avoid VAN in costal groove."
+  },
+  {
+    "Question": "Bleeding near sternum during sternotomy from:",
+    "Option_A": "Internal thoracic artery",
+    "Option_B": "Musculophrenic",
+    "Option_C": "Posterior intercostal",
+    "Option_D": "Superior epigastric",
+    "Correct": "A",
+    "Explanation": "Runs just lateral to sternum."
+  },
+  {
+    "Question": "Posterior intercostals 3–11 arise from:",
+    "Option_A": "Internal thoracic",
+    "Option_B": "Thoracic aorta",
+    "Option_C": "Subclavian",
+    "Option_D": "Musculophrenic",
+    "Correct": "B",
+    "Explanation": "Directly from thoracic aorta."
+  },
+  {
+    "Question": "Nipple dermatome (male):",
+    "Option_A": "T2",
+    "Option_B": "T4",
+    "Option_C": "T6",
+    "Option_D": "T8",
+    "Correct": "B",
+    "Explanation": "Classically T4."
+  },
+  {
+    "Question": "Typical rib example:",
+    "Option_A": "1st",
+    "Option_B": "2nd",
+    "Option_C": "7th",
+    "Option_D": "12th",
+    "Correct": "C",
+    "Explanation": "Ribs 3–9 typical."
+  },
+  {
+    "Question": "Rib without neck/tubercle, single facet:",
+    "Option_A": "2nd",
+    "Option_B": "7th",
+    "Option_C": "10th",
+    "Option_D": "11th",
+    "Correct": "D",
+    "Explanation": "11–12 floating."
+  },
+  {
+    "Question": "Upper ribs increase AP diameter via:",
+    "Option_A": "Bucket-handle",
+    "Option_B": "Pump-handle",
+    "Option_C": "Caliper",
+    "Option_D": "Scissor",
+    "Correct": "B",
+    "Explanation": "Pump-handle motion."
+  },
+  {
+    "Question": "Lower ribs increase transverse diameter via:",
+    "Option_A": "Pump-handle",
+    "Option_B": "Bucket-handle",
+    "Option_C": "Caliper",
+    "Option_D": "Pivot",
+    "Correct": "B",
+    "Explanation": "Bucket-handle motion."
+  },
+  {
+    "Question": "External intercostals:",
+    "Option_A": "Inferoposterior; depress",
+    "Option_B": "Infero-anterior; elevate",
+    "Option_C": "Supero-anterior; elevate",
+    "Option_D": "Only to costal angle",
+    "Correct": "B",
+    "Explanation": "Hands-in-pockets orientation."
+  },
+  {
+    "Question": "Forced expiration aided by:",
+    "Option_A": "Interchondral internal intercostals",
+    "Option_B": "Interosseous internal intercostals",
+    "Option_C": "External intercostals",
+    "Option_D": "Diaphragm",
+    "Correct": "B",
+    "Explanation": "Interosseous parts depress ribs."
+  },
+  {
+    "Question": "Internal thoracic artery branch of:",
+    "Option_A": "Ascending aorta",
+    "Option_B": "Subclavian",
+    "Option_C": "Axillary",
+    "Option_D": "Thoracoacromial",
+    "Correct": "B",
+    "Explanation": "From subclavian."
+  },
+  {
+    "Question": "Nerve inferior to 12th rib:",
+    "Option_A": "T1",
+    "Option_B": "T2",
+    "Option_C": "Subcostal nerve",
+    "Option_D": "Phrenic",
+    "Correct": "C",
+    "Explanation": "T12 ventral ramus."
+  },
+  {
+    "Question": "Sternal angle level:",
+    "Option_A": "T1/T2",
+    "Option_B": "T2/T3",
+    "Option_C": "T4/T5",
+    "Option_D": "T6/T7",
+    "Correct": "C",
+    "Explanation": "Carina plane."
+  },
+  {
+    "Question": "Costal margin formed by ribs:",
+    "Option_A": "1–6",
+    "Option_B": "7–10",
+    "Option_C": "8–12",
+    "Option_D": "3–9",
+    "Correct": "B",
+    "Explanation": "7–10 cartilages."
+  },
+  {
+    "Question": "Order in costal groove (sup→inf):",
+    "Option_A": "A-V-N",
+    "Option_B": "V-A-N",
+    "Option_C": "N-A-V",
+    "Option_D": "V-N-A",
+    "Correct": "B",
+    "Explanation": "VAN order."
+  },
+  {
+    "Question": "Sternal bone marrow biopsy site:",
+    "Option_A": "Sternal body",
+    "Option_B": "Xiphoid",
+    "Option_C": "Manubrium only",
+    "Option_D": "Rib angle",
+    "Correct": "A",
+    "Explanation": "Used with caution."
+  },
+  {
+    "Question": "Thoracentesis needle path at 8th ICS MAL:",
+    "Option_A": "Inferior to upper rib",
+    "Option_B": "Superior to lower rib",
+    "Option_C": "Center",
+    "Option_D": "Above cartilage",
+    "Correct": "B",
+    "Explanation": "Avoid VAN bundle."
+  },
+  {
+    "Question": "Breast perforators through 2nd–4th cartilages arise from:",
+    "Option_A": "Posterior intercostal",
+    "Option_B": "Internal thoracic",
+    "Option_C": "Lateral thoracic",
+    "Option_D": "Thoracoacromial",
+    "Correct": "B",
+    "Explanation": "Internal thoracic perforators."
+  }
+]

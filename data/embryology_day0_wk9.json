@@ -1,0 +1,272 @@
+[
+  {
+    "Question": "A ~3-day embryo with ~16 cells is:",
+    "Option_A": "Blastocyst",
+    "Option_B": "Morula",
+    "Option_C": "Zygote",
+    "Option_D": "Gastrula",
+    "Correct": "B",
+    "Explanation": "Morula forms about day 3."
+  },
+  {
+    "Question": "Before implantation, the blastocyst must:",
+    "Option_A": "Undergo gastrulation",
+    "Option_B": "Hatch from zona pellucida",
+    "Option_C": "Form somites",
+    "Option_D": "Fuse with endometrium",
+    "Correct": "B",
+    "Explanation": "Zona hatching permits implantation."
+  },
+  {
+    "Question": "Implantation phase:",
+    "Option_A": "Proliferative",
+    "Option_B": "Secretory",
+    "Option_C": "Menstrual",
+    "Option_D": "Perimenstrual",
+    "Correct": "B",
+    "Explanation": "Progesterone-dominant secretory endometrium."
+  },
+  {
+    "Question": "Invasive trophoblast:",
+    "Option_A": "Cytotrophoblast",
+    "Option_B": "Syncytiotrophoblast",
+    "Option_C": "Epiblast",
+    "Option_D": "Hypoblast",
+    "Correct": "B",
+    "Explanation": "Syncytiotrophoblast erodes maternal vessels."
+  },
+  {
+    "Question": "Embryo proper derives from:",
+    "Option_A": "Cytotrophoblast",
+    "Option_B": "Syncytiotrophoblast",
+    "Option_C": "Inner cell mass",
+    "Option_D": "Extraembryonic mesoderm",
+    "Correct": "C",
+    "Explanation": "Embryoblast → embryo."
+  },
+  {
+    "Question": "End of week 2 embryo is:",
+    "Option_A": "Trilaminar",
+    "Option_B": "Bilaminar",
+    "Option_C": "Neural tube",
+    "Option_D": "Somite embryo",
+    "Correct": "B",
+    "Explanation": "Two layers, two cavities."
+  },
+  {
+    "Question": "Amniotic cavity first forms within:",
+    "Option_A": "Hypoblast",
+    "Option_B": "Epiblast",
+    "Option_C": "Cytotrophoblast",
+    "Option_D": "Extraembryonic mesoderm",
+    "Correct": "B",
+    "Explanation": "Cleft in epiblast."
+  },
+  {
+    "Question": "Primary yolk sac becomes:",
+    "Option_A": "Chorionic cavity",
+    "Option_B": "Secondary yolk sac",
+    "Option_C": "Allantois",
+    "Option_D": "Amnion",
+    "Correct": "B",
+    "Explanation": "Replaced by secondary sac."
+  },
+  {
+    "Question": "Chorionic cavity develops within:",
+    "Option_A": "Intraembryonic mesoderm",
+    "Option_B": "Extraembryonic mesoderm",
+    "Option_C": "Epiblast",
+    "Option_D": "Endoderm",
+    "Correct": "B",
+    "Explanation": "Spaces coalesce in extraembryonic mesoderm."
+  },
+  {
+    "Question": "Sacrococcygeal teratoma arises from:",
+    "Option_A": "Notochord",
+    "Option_B": "Primitive node",
+    "Option_C": "Primitive streak remnants",
+    "Option_D": "Somites",
+    "Correct": "C",
+    "Explanation": "Persistence of primitive streak."
+  },
+  {
+    "Question": "Definitive endoderm forms when epiblast cells:",
+    "Option_A": "Replace hypoblast",
+    "Option_B": "Form neural plate",
+    "Option_C": "Form notochord",
+    "Option_D": "Form somites",
+    "Correct": "A",
+    "Explanation": "First ingressing cells."
+  },
+  {
+    "Question": "Notochord induces:",
+    "Option_A": "Dermis",
+    "Option_B": "Neural plate",
+    "Option_C": "Vertebral bodies directly",
+    "Option_D": "Myocardium",
+    "Correct": "B",
+    "Explanation": "Neural induction."
+  },
+  {
+    "Question": "Anterior neuropore failure →",
+    "Option_A": "Spina bifida occulta",
+    "Option_B": "Meningocele",
+    "Option_C": "Anencephaly",
+    "Option_D": "Syringomyelia",
+    "Correct": "C",
+    "Explanation": "Cranial neuropore non-closure."
+  },
+  {
+    "Question": "Somites give rise to:",
+    "Option_A": "Neural tube",
+    "Option_B": "Dermis, skeletal muscle, axial skeleton",
+    "Option_C": "Kidneys",
+    "Option_D": "Heart",
+    "Correct": "B",
+    "Explanation": "Dermatome, myotome, sclerotome."
+  },
+  {
+    "Question": "Lateral folding failure causing paraumbilical defect:",
+    "Option_A": "Omphalocele",
+    "Option_B": "Gastroschisis",
+    "Option_C": "Umbilical hernia",
+    "Option_D": "Diastasis recti",
+    "Correct": "B",
+    "Explanation": "Body wall folding failure."
+  },
+  {
+    "Question": "AV canal partitioning by:",
+    "Option_A": "Septum primum",
+    "Option_B": "Endocardial cushions",
+    "Option_C": "Septum secundum",
+    "Option_D": "Conotruncal ridges",
+    "Correct": "B",
+    "Explanation": "Cushions form valves and septa."
+  },
+  {
+    "Question": "Neural crest contribution to heart:",
+    "Option_A": "AV node",
+    "Option_B": "Conotruncal septum",
+    "Option_C": "LV myocardium",
+    "Option_D": "Sinus venosus",
+    "Correct": "B",
+    "Explanation": "Aorticopulmonary septum."
+  },
+  {
+    "Question": "Physiologic midgut herniation due to:",
+    "Option_A": "Folding failure",
+    "Option_B": "Rapid liver growth and limited space",
+    "Option_C": "Cloacal membrane issue",
+    "Option_D": "Renal ascent",
+    "Correct": "B",
+    "Explanation": "Transient herniation week 6–7."
+  },
+  {
+    "Question": "Fetal part of placenta:",
+    "Option_A": "Decidua basalis",
+    "Option_B": "Decidua capsularis",
+    "Option_C": "Chorion frondosum",
+    "Option_D": "Amnion",
+    "Correct": "C",
+    "Explanation": "Villous chorion."
+  },
+  {
+    "Question": "Maternal blood in placenta located in:",
+    "Option_A": "Fetal capillaries",
+    "Option_B": "Intervillous space",
+    "Option_C": "Umbilical vein",
+    "Option_D": "Umbilical arteries",
+    "Correct": "B",
+    "Explanation": "Bathes chorionic villi."
+  },
+  {
+    "Question": "Villous maturation sequence:",
+    "Option_A": "Primary→secondary→tertiary",
+    "Option_B": "Secondary→tertiary→primary",
+    "Option_C": "Tertiary→secondary→primary",
+    "Option_D": "Primary only",
+    "Correct": "A",
+    "Explanation": "Add mesoderm then fetal vessels."
+  },
+  {
+    "Question": "Placental barrier early consists of:",
+    "Option_A": "Syncytiotrophoblast only",
+    "Option_B": "Cyto+syncytio+mesoderm+endothelium",
+    "Option_C": "Decidua+amnion",
+    "Option_D": "Endothelium only",
+    "Correct": "B",
+    "Explanation": "Thins over gestation."
+  },
+  {
+    "Question": "Placenta previa is:",
+    "Option_A": "Placenta invades myometrium",
+    "Option_B": "Placenta covers internal os",
+    "Option_C": "Accessory lobe",
+    "Option_D": "Retained tissue",
+    "Correct": "B",
+    "Explanation": "Painless bleeding late pregnancy."
+  },
+  {
+    "Question": "Dizygotic twins arise from:",
+    "Option_A": "One embryo",
+    "Option_B": "Two ova fertilized by two sperm",
+    "Option_C": "Incomplete ICM split",
+    "Option_D": "Duplication of streak",
+    "Correct": "B",
+    "Explanation": "Typically dichorionic, diamniotic."
+  },
+  {
+    "Question": "Monochorionic diamniotic twins split at:",
+    "Option_A": "Two-cell stage",
+    "Option_B": "Morula (day 3–4)",
+    "Option_C": "Inner cell mass (day 4–8)",
+    "Option_D": "After day 13",
+    "Correct": "C",
+    "Explanation": "Mo-Di twins timing."
+  },
+  {
+    "Question": "Conjoined twins: split occurs:",
+    "Option_A": "Before morula",
+    "Option_B": "Day 4–8",
+    "Option_C": "Day 8–13",
+    "Option_D": "After day 13",
+    "Correct": "D",
+    "Explanation": "Very late/partial splitting."
+  },
+  {
+    "Question": "Pharyngeal fistula persistence between:",
+    "Option_A": "1st arch+pouch",
+    "Option_B": "2nd pouch+ectoderm",
+    "Option_C": "2nd cleft and pouch",
+    "Option_D": "Thyroglossal duct+skin",
+    "Correct": "C",
+    "Explanation": "Failure of operculum overgrowth."
+  },
+  {
+    "Question": "Most vulnerable period for major anomalies:",
+    "Option_A": "Week 1–2",
+    "Option_B": "Week 3–8",
+    "Option_C": "Week 9–38",
+    "Option_D": "Peripartum",
+    "Correct": "B",
+    "Explanation": "Organogenesis."
+  },
+  {
+    "Question": "Pre-implantation teratogen effect:",
+    "Option_A": "Dose-independent defects",
+    "Option_B": "'All-or-none' effect",
+    "Option_C": "CNS-only defects",
+    "Option_D": "Guaranteed normal",
+    "Correct": "B",
+    "Explanation": "Embryo either dies or survives unaffected."
+  },
+  {
+    "Question": "Maternal part of placenta:",
+    "Option_A": "Decidua basalis",
+    "Option_B": "Decidua capsularis",
+    "Option_C": "Decidua parietalis",
+    "Option_D": "Myometrium",
+    "Correct": "A",
+    "Explanation": "Under implantation site."
+  }
+]

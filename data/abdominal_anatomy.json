@@ -1,0 +1,218 @@
+[
+  {
+    "Question": "Ilioinguinal nerve traverses which canal and emerges at superficial ring?",
+    "Option_A": "Femoral canal",
+    "Option_B": "Obturator canal",
+    "Option_C": "Inguinal canal",
+    "Option_D": "Adductor canal",
+    "Correct": "C",
+    "Explanation": "Ilioinguinal nerve runs in inguinal canal."
+  },
+  {
+    "Question": "Linea alba is favored for entry because it is relatively:",
+    "Option_A": "Vascular",
+    "Option_B": "Avascular",
+    "Option_C": "Innervated",
+    "Option_D": "Muscular",
+    "Correct": "B",
+    "Explanation": "Few vessels."
+  },
+  {
+    "Question": "Indirect inguinal hernia passes:",
+    "Option_A": "Medial to inferior epigastrics",
+    "Option_B": "Through Hesselbach’s triangle",
+    "Option_C": "Via deep ring lateral to inferior epigastrics",
+    "Option_D": "Through conjoint tendon",
+    "Correct": "C",
+    "Explanation": "Follows processus vaginalis."
+  },
+  {
+    "Question": "Early appendicitis pain refers to:",
+    "Option_A": "T6",
+    "Option_B": "T8",
+    "Option_C": "T10",
+    "Option_D": "T12",
+    "Correct": "C",
+    "Explanation": "Periumbilical."
+  },
+  {
+    "Question": "Omental foramen connects greater sac to:",
+    "Option_A": "Pelvic cavity",
+    "Option_B": "Lesser sac",
+    "Option_C": "Right paracolic gutter",
+    "Option_D": "Infracolic compartment",
+    "Correct": "B",
+    "Explanation": "Foramen of Winslow."
+  },
+  {
+    "Question": "Pringle maneuver clamps:",
+    "Option_A": "Hepatogastric ligament",
+    "Option_B": "Hepatoduodenal ligament",
+    "Option_C": "Round ligament",
+    "Option_D": "Coronary ligament",
+    "Correct": "B",
+    "Explanation": "Portal triad resides in hepatoduodenal ligament."
+  },
+  {
+    "Question": "Posterior duodenal ulcer may erode:",
+    "Option_A": "SMA",
+    "Option_B": "CBD",
+    "Option_C": "Gastroduodenal artery",
+    "Option_D": "Portal vein",
+    "Correct": "C",
+    "Explanation": "GDA runs posterior to first part of duodenum."
+  },
+  {
+    "Question": "Spleen lies against:",
+    "Option_A": "Right kidney",
+    "Option_B": "Left kidney",
+    "Option_C": "Anterior wall",
+    "Option_D": "Pancreatic head",
+    "Correct": "B",
+    "Explanation": "Contacts left kidney and ribs 9–11."
+  },
+  {
+    "Question": "Uncinate process derived from:",
+    "Option_A": "Dorsal pancreatic bud",
+    "Option_B": "Ventral pancreatic bud",
+    "Option_C": "Hepatic diverticulum",
+    "Option_D": "Foregut diverticulum",
+    "Correct": "B",
+    "Explanation": "Ventral bud → uncinate + head."
+  },
+  {
+    "Question": "Gallbladder irritation refers to:",
+    "Option_A": "Left shoulder",
+    "Option_B": "Right shoulder",
+    "Option_C": "Umbilicus",
+    "Option_D": "Inguinal region",
+    "Correct": "B",
+    "Explanation": "Phrenic nerve C3–5."
+  },
+  {
+    "Question": "Midgut artery:",
+    "Option_A": "Celiac",
+    "Option_B": "SMA",
+    "Option_C": "IMA",
+    "Option_D": "Internal iliac",
+    "Correct": "B",
+    "Explanation": "SMA supplies midgut."
+  },
+  {
+    "Question": "McBurney’s point:",
+    "Option_A": "Distal third from ASIS to umbilicus",
+    "Option_B": "Proximal third",
+    "Option_C": "Midpoint",
+    "Option_D": "1 cm medial to ASIS",
+    "Correct": "A",
+    "Explanation": "Lateral–middle third junction."
+  },
+  {
+    "Question": "Splenic flexure watershed:",
+    "Option_A": "Celiac–SMA",
+    "Option_B": "SMA–IMA",
+    "Option_C": "IMA–internal iliac",
+    "Option_D": "SMA–renal",
+    "Correct": "B",
+    "Explanation": "Griffith’s point."
+  },
+  {
+    "Question": "Caput medusae anastomosis:",
+    "Option_A": "Left gastric↔azygos",
+    "Option_B": "Paraumbilical↔superficial epigastric",
+    "Option_C": "Superior↔middle rectal",
+    "Option_D": "Retroperitoneal↔lumbar",
+    "Correct": "B",
+    "Explanation": "Portal–systemic around umbilicus."
+  },
+  {
+    "Question": "Esophageal varices anastomosis:",
+    "Option_A": "Left gastric (portal)↔azygos (systemic)",
+    "Option_B": "Splenic↔renal",
+    "Option_C": "Superior rectal (systemic)↔middle rectal (portal)",
+    "Option_D": "Femoral↔obturator",
+    "Correct": "A",
+    "Explanation": "Lower esophageal anastomoses."
+  },
+  {
+    "Question": "Posterior approach to left kidney risks:",
+    "Option_A": "Obturator nerve",
+    "Option_B": "Genitofemoral nerve",
+    "Option_C": "Iliohypogastric nerve",
+    "Option_D": "Femoral nerve",
+    "Correct": "C",
+    "Explanation": "Crosses quadratus lumborum."
+  },
+  {
+    "Question": "Ureter crosses anterior to which vessel at brim?",
+    "Option_A": "External iliac artery",
+    "Option_B": "Internal iliac artery",
+    "Option_C": "Common iliac vein",
+    "Option_D": "Gonadal vein",
+    "Correct": "A",
+    "Explanation": "Anterior to external iliac."
+  },
+  {
+    "Question": "Left renal vein receives:",
+    "Option_A": "Right gonadal vein",
+    "Option_B": "Left gonadal vein",
+    "Option_C": "Right suprarenal vein",
+    "Option_D": "Hepatic vein",
+    "Correct": "B",
+    "Explanation": "Also receives left suprarenal."
+  },
+  {
+    "Question": "Adrenal medulla derived from:",
+    "Option_A": "Neural crest",
+    "Option_B": "Placodes",
+    "Option_C": "Neural tube",
+    "Option_D": "Mesonephros",
+    "Correct": "A",
+    "Explanation": "Chromaffin cells are modified postganglionic neurons."
+  },
+  {
+    "Question": "AAA commonly near origin of:",
+    "Option_A": "Celiac trunk",
+    "Option_B": "SMA",
+    "Option_C": "IMA",
+    "Option_D": "Renal arteries",
+    "Correct": "B",
+    "Explanation": "Infrarenal region near SMA level."
+  },
+  {
+    "Question": "Lateral arcuate ligament crosses:",
+    "Option_A": "Psoas major",
+    "Option_B": "Quadratus lumborum",
+    "Option_C": "Iliacus",
+    "Option_D": "Transversus abdominis",
+    "Correct": "B",
+    "Explanation": "Lateral arcuate arches over QL."
+  },
+  {
+    "Question": "Testicular cancer first nodes:",
+    "Option_A": "Superficial inguinal",
+    "Option_B": "External iliac",
+    "Option_C": "Para-aortic (lumbar)",
+    "Option_D": "Internal iliac",
+    "Correct": "C",
+    "Explanation": "Lymph follows gonadal vessels."
+  },
+  {
+    "Question": "Cutaneous lymph above umbilicus drains to:",
+    "Option_A": "Axillary nodes",
+    "Option_B": "Deep inguinal",
+    "Option_C": "Para-aortic",
+    "Option_D": "Internal iliac",
+    "Correct": "A",
+    "Explanation": "Above umbilicus → axillary."
+  },
+  {
+    "Question": "Direct hernia triangle bounded by:",
+    "Option_A": "Inguinal ligament, inferior epigastrics, rectus abdominis",
+    "Option_B": "Femoral vein, lacunar ligament, pubic tubercle",
+    "Option_C": "Semilunar line, arcuate line, ASIS",
+    "Option_D": "Pectineal line, Cooper’s ligament, iliopectineal arch",
+    "Correct": "A",
+    "Explanation": "Hesselbach’s triangle."
+  }
+]
